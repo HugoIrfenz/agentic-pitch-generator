@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+.env
+.env.*
+!.env.example
+*.json
+!pyproject.toml
+sa-key.json
